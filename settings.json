@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Knightsmp0018.aternos.me",
-    "port": 39895,
+    "ip": "Knightsmp180.aternos.me",
+    "port": 26749,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -75,7 +75,7 @@
     "webhookUrl": "",
     "events": {
       "connect": true,
-      "disconnect": true,
+      "disconnect": false,
       "chat": false
     }
   },
